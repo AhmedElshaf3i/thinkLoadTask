@@ -17,5 +17,5 @@ Mobile shop app
     <li>React-js</li>
     <li>Redux</li>
     <li>React Form Hook</li>
-    <li>D3js</li>
+    <li>Recharts </li>
   </ul>
